@@ -1,5 +1,8 @@
-# BinaryCoP_Private
+# BinaryCoP
 Binary Neural Network-based COVID-19 Face-Mask Wear and Positioning Predictor on Edge Devices
+
+### XOHW Team Number: xohw21-142
+
 High Performance (Multi-Gate/Camera)             |  Low Power (Single Gate/Camera)
 :-------------------------:|:-------------------------:
 ![](docs/imgs/firsthalf.gif?raw=true "Overview")  |  ![](docs/imgs/secondhalf.gif?raw=true "Overview")
@@ -11,8 +14,8 @@ Deploy **accurate, unbiased** image classification algorithms, which can be used
 
 ## Example Notebook and Documentation
 * Example Jupyter notebook to test a prototype of BinaryCoP on a standard PYNQ-board. 
-* Docs repository for extended paper and slides.
-* Utils: 
+* Docs contains extended report and slides.
+* Other Utils: 
     - Script to generate Grad-CAM interpretability results from trained networks.
     - DSP-BitPacking script to rewire XNOR operations through DSP blocks.
 
