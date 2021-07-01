@@ -35,7 +35,7 @@ This repository is based on the work published in IPDPS-RAW 2021.
     pages={108-115},
     doi={10.1109/IPDPSW52791.2021.00024}}
 
-BinaryCoP is also based on the following works:
+Acknowledgements:
 
     @inproceedings{finn,
     author = {Umuroglu, Yaman and Fraser, Nicholas J. and Gambardella, Giulio and Blott, Michaela and Leong, Philip and Jahre, Magnus and Vissers, Kees},
